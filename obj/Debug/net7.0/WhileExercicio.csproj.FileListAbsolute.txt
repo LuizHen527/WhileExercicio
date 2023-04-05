@@ -1,0 +1,15 @@
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\bin\Debug\net7.0\WhileExercicio.exe
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\bin\Debug\net7.0\WhileExercicio.deps.json
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\bin\Debug\net7.0\WhileExercicio.runtimeconfig.json
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\bin\Debug\net7.0\WhileExercicio.dll
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\bin\Debug\net7.0\WhileExercicio.pdb
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\obj\Debug\net7.0\WhileExercicio.csproj.AssemblyReference.cache
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\obj\Debug\net7.0\WhileExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\obj\Debug\net7.0\WhileExercicio.AssemblyInfoInputs.cache
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\obj\Debug\net7.0\WhileExercicio.AssemblyInfo.cs
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\obj\Debug\net7.0\WhileExercicio.csproj.CoreCompileInputs.cache
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\obj\Debug\net7.0\WhileExercicio.dll
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\obj\Debug\net7.0\refint\WhileExercicio.dll
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\obj\Debug\net7.0\WhileExercicio.pdb
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\obj\Debug\net7.0\WhileExercicio.genruntimeconfig.cache
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\WhileExercicio\obj\Debug\net7.0\ref\WhileExercicio.dll
